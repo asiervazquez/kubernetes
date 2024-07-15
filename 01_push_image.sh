@@ -1,6 +1,6 @@
 #!/bin/bash
 # definir el usuario de dockerhub
-DOCKER_HUB_USER=pepesan
+DOCKER_HUB_USER=ezkabairu
 
 # Antes de hacer el push hay que hacer el login
 # el docker hub
